@@ -1,1 +1,1 @@
-# Hello, this is Geckos team :wave:
+# Hello, welcome to Geckos Lab :wave:
